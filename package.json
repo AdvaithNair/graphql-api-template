@@ -17,7 +17,7 @@
     "graphql": "^15.2.0",
     "graphql-upload": "^11.0.0",
     "ioredis": "^4.17.3",
-    "nodemailer": "^6.4.10",
+    "nodemailer": "^6.4.16",
     "passport": "^0.4.1",
     "passport-facebook": "^3.0.0",
     "passport-google-oauth2": "^0.2.0",
